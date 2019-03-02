@@ -13,7 +13,7 @@ data = dict(
 
 class API(Resource):	
 	def get(self):
-		return data
+		return (data)
 
 api.add_resource(API,"/")
 
