@@ -1,9 +1,11 @@
 # kathmandu-locations
-An api made for retrieving name of places inside Kathmandu valley.</br>
+An API that lists the name of places inside Kathmandu valley.</br>
 
-### To Retrieve Names as JSON
+### API GET Request
 
-> [https://kathmandu-locations.herokuapp.com/](https://kathmandu-locations.herokuapp.com/)
+```
+$ curl https://kathmandu-locations.herokuapp.com
+```
 
 ### To Add more locations
 - Fork the repo
