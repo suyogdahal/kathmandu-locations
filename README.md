@@ -9,5 +9,5 @@ $ curl https://kathmandu-locations.herokuapp.com
 
 ### To Add more locations
 - Fork the repo
-- Add the new location in locations.txt file
+- Add the new location in locations.json file
 - Submit a pull request
